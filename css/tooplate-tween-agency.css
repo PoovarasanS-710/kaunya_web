@@ -801,3 +801,8 @@ button:focus:not(:focus-visible) {
     margin-right: auto;
   }
 }
+
+.lis {
+  list-style-type: "✓";
+  padding-left: 1ch;
+}
